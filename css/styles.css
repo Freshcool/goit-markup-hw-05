@@ -812,7 +812,7 @@ body {
 }
 
 .is-hidden {
-  visibility: hidden;
+  visibility: 101%;
   opacity: 0;
   pointer-events: none;
 }
